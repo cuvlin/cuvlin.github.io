@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// Colors (define your palette)
+$cream: #fdf9e4;
+$teal: #d1f0ea;
+$white: #ffffff;
+$turq: #4b92a7;
+$grayblue: #3C6997;
+$navyb: #000d31;
+$orangecoral: #FC9F5B;
+$balticblue: #2d5d7b;
+
+// Assign to Quarto Sass Variables
+$navbar-bg: $turq;                   // navbar background
+$navbar-fg: $white;                  // navbar text/icons
+$navbar-hl: $balticblue;                  // navbar hover highlight
+$body-bg: $white;                    // page background
+$body-color: $navyb;                // page text
+$footer-bg: $orangecoral;           // footer clor
+
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+
+
+
+
+
+
+
+/*-- scss:rules --*/

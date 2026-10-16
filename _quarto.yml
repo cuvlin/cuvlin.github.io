@@ -14,10 +14,8 @@ website:
 
 format:
   html:
-    theme:
-      - solar
-      - brand
-    css: styles.css
+    theme: styles.scss
+    mainfont: Quicksand
     toc: true
     page-layout: full
 
